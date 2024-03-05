@@ -17,7 +17,7 @@ public class exercicio8 {
         int valor2 = teclado.nextInt();
         
         if (valor1 == 0 || valor2 == 0) {
-            System.out.println("Os numeros não podem ser zero!!!");
+            System.out.println("Os numeros não podem ser zero!!!.");
         } else if (valor1 % valor2 == 0 || valor2 % valor1 == 0) {
             System.out.println("Os números são múltiplos um do outro.");
         } else {

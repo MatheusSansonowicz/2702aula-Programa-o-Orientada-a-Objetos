@@ -6,9 +6,7 @@ import java.util.Scanner;
 			public static void main(String[] args) {
 				
 				//exercicios 1 e 10
-				
-				
-				
+
 				float v1;
 				float v2;
 				int op;
